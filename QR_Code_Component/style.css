@@ -23,9 +23,7 @@ img {
     margin: 20px auto;
     max-width: 90%;
     max-height: 70%;
-    margin-top: 0px;
-    
-    
+    margin-top: 0px; 
 }
 
 h3, p {
@@ -52,7 +50,6 @@ p {
     text-align: center; 
     margin: 0px auto;
     padding: 0px;
-
 }
 
 .attribution a { 
